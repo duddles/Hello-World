@@ -4,3 +4,4 @@ Did this work?
 That didn't but then I changed git config...
 Okay that worked, now testing PasswordAuthentication
 tried UseKeychain
+tried ssh-add -K
